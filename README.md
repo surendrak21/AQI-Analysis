@@ -48,7 +48,6 @@ In Jupyter Notebook, install the required packages:
 !pip install prophet
 !pip install scikit-learn
 
-
 ## 📊 Visualizations
 
 ### **1️⃣ City-wise AQI Distribution**
