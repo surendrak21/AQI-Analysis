@@ -47,23 +47,18 @@ In Jupyter Notebook, install the required packages:
 !pip install statsmodels
 !pip install prophet
 !pip install scikit-learn
+```
 
 ## 📊 Visualizations
 
 ### **1️⃣ City-wise AQI Distribution**
 ![City-wise AQI Distribution](images/city_aqi_distribution.png)
 
----
-
 ### **2️⃣ AQI Trend Over Time – Delhi**
 ![AQI Trend Delhi](images/aqi_trend_delhi.png)
-
----
 
 ### **3️⃣ Monthly Average AQI – Delhi**
 ![Monthly Average AQI Delhi](images/monthly_aqi_delhi.png)
 
----
-
-### **4️⃣  ARIMA Forecast – Delhi**
+### **4️⃣ ARIMA Forecast – Delhi**
 ![ARIMA Forecast Delhi](images/arima_forecast_delhi.png)
